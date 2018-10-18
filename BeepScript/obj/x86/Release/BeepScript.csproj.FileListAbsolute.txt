@@ -1,0 +1,3 @@
+/home/sl4v/Projects/BeepScript/BeepScript/bin/Release/BeepScript.exe
+/home/sl4v/Projects/BeepScript/BeepScript/obj/x86/Release/BeepScript.csproj.CoreCompileInputs.cache
+/home/sl4v/Projects/BeepScript/BeepScript/obj/x86/Release/BeepScript.exe
